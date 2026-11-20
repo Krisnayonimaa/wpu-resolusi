@@ -5,3 +5,4 @@ RENCANA KEDEPAN
   * Saya kedepannya mempelajari next.js
 - Saya mempelajari gsap
 - Git dan Github
+ * Baru mempelajari github dasar dasar
