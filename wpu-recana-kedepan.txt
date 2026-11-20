@@ -6,3 +6,4 @@ RENCANA KEDEPAN
 - Saya mempelajari gsap
 - Git dan Github
  * Baru mempelajari github dasar dasar
+- Belajar laravel dari pada react
