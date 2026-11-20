@@ -1,6 +1,7 @@
 RENCANA KEDEPAN 
 
 - Saya ingin mempelajari javascript
-- Saya kedepannya mempelajari framework react
-- Saya kedepannya mempelajari next.js
+  * Saya kedepannya mempelajari framework react
+  * Saya kedepannya mempelajari next.js
 - Saya mempelajari gsap
+- Git dan Github
